@@ -1,0 +1,13 @@
+               <binding name="Adapter Archive-AARNUMBER">
+                    <machine>AARMACHINE</machine>
+                    <product>
+                        <type>adr3</type>
+                    </product>
+                    <setting>
+                        <startOnBoot>false</startOnBoot>
+                        <enableVerbose>false</enableVerbose>
+                        <maxLogFileSize>20000</maxLogFileSize>
+                        <maxLogFileCount>5</maxLogFileCount>
+                    </setting>
+                </binding>
+                <!-- AARREPLACER -->
