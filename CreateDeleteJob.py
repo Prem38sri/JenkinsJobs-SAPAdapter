@@ -22,7 +22,7 @@ def JenkinsCreateDeleteJob(MasterFolder,domain):
     with open(deletejobxml,'w') as writer:
         writer.write(data)
 
-    Commanddeletejob = "java -jar Lib\jenkins-cli.jar -s http://xsnw50f525a:8080/ create-job Deploy_Check/"+MasterFolder+"/"+domain+"/SAPAdapterDeleteEar --username admin --password admin <output/SAPAdapterDelete_"+domain+".xml"
+    Commanddeletejob = "java -jar Lib\jenkins-cli.jar -s http://<Jenkins_HOST_Name>:8080/ create-job Deploy_Check/"+MasterFolder+"/"+domain+"/SAPAdapterDeleteEar --username admin --password admin <output/SAPAdapterDelete_"+domain+".xml"
     print(Commanddeletejob)
     subprocess.Popen(Commanddeletejob,stdout=subprocess.PIPE, shell=True)
 

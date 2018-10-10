@@ -6,8 +6,8 @@ import CreateMasterFolder as JobFolder
 import CreateDeployJob as jdeploy
 import CreateUneployJob as jundeploy
 import CreateDeleteJob as jdelete
-project="EUTIB01"
-domain="EUTIB01-UAT"
+project="Project"
+domain="Domain-Name"
 print("Calling XML Generator\n")
 XMLCreate.XMLGenerate(domain)
 print("Calling Copy Generator ")

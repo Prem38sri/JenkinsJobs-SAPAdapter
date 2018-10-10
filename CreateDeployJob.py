@@ -22,7 +22,7 @@ def JenkinsCreateDeployJob(MasterFolder,domain):
     with open(deployjobxml,'w') as writer:
         writer.write(data)
 
-    CommandDeployJob = "java -jar Lib\jenkins-cli.jar -s http://xsnw50f525a:8080/ create-job Deploy_Check/"+MasterFolder+"/"+domain+"/SAPAdapterDeployEar --username admin --password admin <output/SAPAdapterDeploy_"+domain+".xml"
+    CommandDeployJob = "java -jar Lib\jenkins-cli.jar -s http://<Jenkins_HOST_Name>:8080/ create-job Deploy_Check/"+MasterFolder+"/"+domain+"/SAPAdapterDeployEar --username admin --password admin <output/SAPAdapterDeploy_"+domain+".xml"
     print(CommandDeployJob)
     subprocess.Popen(CommandDeployJob,stdout=subprocess.PIPE, shell=True)
 

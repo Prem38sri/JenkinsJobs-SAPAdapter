@@ -1,2 +1,0 @@
-user=admin
-pw=#!or1QCoZJd4EQ9J1YGYxzB7LnkD8yRqfy5ANMwaVWKcA=

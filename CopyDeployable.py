@@ -22,7 +22,3 @@ def Copyfiles(domain):
     print("EAR is copied"+copyear)
     subprocess.Popen(copyxml, stdout=subprocess.PIPE, shell=True)
     print("XML is copied" + copyxml)
-
-
-
-
