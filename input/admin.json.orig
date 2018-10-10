@@ -1,0 +1,150 @@
+{
+  "hrgs": {
+    "admin": "xsnw10s339s",
+    "drive": "D"
+  },
+  "hrgd": {
+    "admin": "xsnw10s339s",
+    "drive": "D"
+  },
+  "hrgt": {
+    "admin": "xsnw10w863w",
+    "drive": "D"
+  },
+  "hrgp": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "PDWP": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "PDWT": {
+    "admin": "XSNW10W860X",
+    "drive": "D"
+  },
+  "PDWV": {
+    "admin": "xsnw10w863w",
+    "drive": "D"
+  },
+  "ebod": {
+    "admin": "xsnw10s339s",
+    "drive": "D"
+  },
+  "ebop": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "ebot": {
+    "admin": "xsnw10w863w",
+    "drive": "D"
+  },
+  "strgd": {
+    "admin": "xsnw10s339s",
+    "drive": "D"
+  },
+  "strgp": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "strgt": {
+    "admin": "XSNW10W863W",
+    "drive": "D"
+  },
+  "NATIB07-PRD": {
+    "admin": "XSPW50A133A",
+    "drive": "D"
+  },
+  "NATIB07-INT": {
+    "admin": "XSNW50A131K",
+    "drive": "D"
+  },
+  "NATIB07-UAT": {
+    "admin": "XSNW11B593W",
+    "drive": "E"
+  },
+  "NATIB1-PRD": {
+    "admin": "XSPW50A133A",
+    "drive": "D"
+  },
+  "NATIB1-DEV": {
+    "admin": "XSNW50A132T",
+    "drive": "D"
+  },
+  "NATIB1-UAT": {
+    "admin": "XSNW11B592P",
+    "drive": "E"
+  },
+  "NATIB1-SND": {
+    "admin": "XSNW50A403S",
+    "drive": "D"
+  },
+  "NATIB06-INT": {
+    "admin": "xsnw50a132t",
+    "drive": "D"
+  },
+  "NATIB05-INT": {
+    "admin": "xsnw50a132t",
+    "drive": "D"
+  },
+  "EUTIB01-DEV": {
+    "admin": "XSNW10S339S",
+    "drive": "D"
+  },
+  "EUTIB01-INT": {
+    "admin": "XSNW10W860X",
+    "drive": "D"
+  },
+  "EUTIB03-INT": {
+    "admin": "XSNW10W860X",
+    "drive": "D"
+  },
+  "EUTIB01-UAT": {
+    "admin": "XSNW10W863W",
+    "drive": "D"
+  },
+  "EUTIB03-UAT": {
+    "admin": "XSNW10W863W",
+    "drive": "D"
+  },
+  "EUTIB01-PRD": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "EUTIB02-PRD": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "EUTIB03-PRD": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "EUTIB04-PRD": {
+    "admin": "XSPW10T523K",
+    "drive": "D"
+  },
+  "NATIB1-PRD": {
+    "admin": "XSPW50A133A",
+    "drive": "D"
+  },
+  "NATIB2-PRD": {
+    "admin": "XSPW50A133A",
+    "drive": "D"
+  },
+  "NATIB06-PRD": {
+    "admin": "XSPW50A133A",
+    "drive": "D"
+  },
+  "NATIB1-UAT": {
+    "admin": "xsnw11b592p",
+    "drive": "E"
+  },
+  "NATIB2-UAT": {
+    "admin": "xsnw11b592p",
+    "drive": "E"
+  },
+  "NATIB1-SND": {
+    "admin": "xsnw50a403s",
+    "drive": "D"
+  }
+}
